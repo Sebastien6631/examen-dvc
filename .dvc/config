@@ -1,4 +1,6 @@
 [core]
-    remote = remote_storage
+    remote = origin
 ['remote "remote_storage"']
     url = ../../dvc_remote
+['remote "origin"']
+    url = https://dagshub.com/Sebastien6631/examen-dvc.dvc
